@@ -3,7 +3,8 @@
           "tiddlywiki/filesystem",
           "tiddlywiki/tiddlyweb",
           "tiddlywiki/codemirror",
-          "tiddlywiki/highlight"
+          "tiddlywiki/highlight",
+	  "tiddlywiki/katex"
 	],
 	"themes": [
 		"tiddlywiki/vanilla",
