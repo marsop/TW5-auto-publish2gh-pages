@@ -1,0 +1,10 @@
+created: 20181003083119161
+modified: 20181003083626497
+tags: definicion
+title: Producto Cartesiano
+
+Un ''Producto Cartesiano'' de dos o más conjuntos $$ \{ A_i \} $$ puede escribirse como:
+
+$$A_1 \times A_2 = \{ (a_1, a_2 ) | \space a_1 \in A_1, a_2 \in A_2 \} $$
+
+Donde $$ A_i $$ es un conjunto.
