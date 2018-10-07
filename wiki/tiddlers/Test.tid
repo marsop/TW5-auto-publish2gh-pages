@@ -1,7 +1,0 @@
-title: Test
-creator: marsop
-type: text/vnd.tiddlywiki
-
-
-
-$$f(x) = \int_{-\infty}^\infty    \hat f(\xi)\,e^{2 \pi i \xi x}    \,d\xi$$
