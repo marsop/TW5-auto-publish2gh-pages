@@ -1,0 +1,9 @@
+created: 20181007075702828
+modified: 20181007080050246
+title: Rango
+
+Sea $$ f: C \rightarrow D $$ una [[Funcion]].
+
+El Rango de $$f$$ es el conjunto que contiene a la [[imagen|Conjunto Imagen]] ($$f(C) \subset D$$). 
+
+Nótese que modificar el Rango de una función modifica la definición, o lo que es lo mismo, una Función no está correctamente definida si el rango no está definido (aunque normalmente se pueda suponer).

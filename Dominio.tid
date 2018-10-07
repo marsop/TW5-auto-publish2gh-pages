@@ -1,0 +1,10 @@
+created: 20181007075036552
+modified: 20181007075600157
+tags: definicion
+title: Dominio
+
+Sea $$ r \subset C \times D $$ una [[Regla de Asignacion]].
+
+El Dominio de $$r$$ es el subconjunto de $$C$$ formado por las primeras coordenadas de los elementos de $$r$$.
+
+$$ dominio(r) = \{ c | $$ existe $$ d \in D $$ tal que $$ (c,d) \in r \}$$

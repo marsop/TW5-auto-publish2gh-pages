@@ -1,0 +1,10 @@
+created: 20181007075604253
+modified: 20181007075645383
+tags: definicion
+title: Conjunto Imagen
+
+Sea $$ r \subset C \times D $$ una [[Regla de Asignacion]].
+
+La imagen de $$r$$ es el subconjunto de $$D$$ formado por las segundas coordenadas de los elementos de $$r$$.
+
+$$ imagen(r) = \{ d | $$ existe $$ c \in C $$ tal que $$ (c,d) \in r \}$$

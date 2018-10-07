@@ -1,0 +1,19 @@
+created: 20181007074419419
+modified: 20181007075551157
+tags: definicion
+title: Regla de Asignacion
+
+Sean $$C, D$$ dos [[conjuntos|Conjunto]].
+Una regla de asignación es un subconjunto del [[Producto Cartesiano]] 
+
+$$r \subset C \times D$$
+
+con la propiedad de que cada elemento de $$C$$ aparece como primera coordenada de a lo sumo un par ordenado de $$r$$.
+
+formalmente:
+
+$$ [(c,d) \in r \space \wedge \space (c, d') \in r] \implies [d = d'] $$
+
+Vease [[Dominio]] y [[Conjunto Imagen]] y [[Rango]] de una regla de asignación.
+
+Las Reglas de Asignación son la base para definir [[funciones|Funcion]]
