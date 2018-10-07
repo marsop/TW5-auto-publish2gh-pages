@@ -1,0 +1,8 @@
+created: 20181007073018876
+modified: 20181007073159185
+tags: definicion
+title: Complemento
+
+Sean $$A$$ y $$B$$ conjuntos. Se define el Complemento de $$B$$ relativo a $$A$$ (también llamado Diferencia) como:
+
+$$ A - B = \{ x | x \in A $$ y $$ x \notin B \} $$

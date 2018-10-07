@@ -1,0 +1,8 @@
+created: 20181007073240070
+modified: 20181007073522196
+tags: 
+title: Leyes de DeMorgan
+
+$$ A - (B \cup C ) = (A - B) \cap (A - C) $$
+
+$$ A - (B \cap C ) = (A - B) \cup (A - C) $$
