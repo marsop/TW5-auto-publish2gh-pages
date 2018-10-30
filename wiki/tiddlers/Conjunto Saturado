@@ -1,0 +1,10 @@
+Sea $$(X, T)$$ un espacio topológico.
+Sea $$p:X->Y$$ una función sobreyectiva.
+
+$$ C \in X $$ es un conjunto saturado si:
+
+* $$C$$ contiene a cada conjunto del tipo $$p^{-1}(Y_i)$$ al que interseca
+
+o bien, si:
+
+* $$ p^{-1}(p(C)) = C $$
