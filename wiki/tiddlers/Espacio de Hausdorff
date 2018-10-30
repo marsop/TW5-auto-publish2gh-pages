@@ -1,0 +1,8 @@
+created: 20181007075604253
+modified: 20181007075645383
+tags: definicion
+title: Espacio de Hausdorff
+
+Un espacio topológico $$(X,T)$$ es un Espacio de Hausdorff si para cada par de puntos $$ x_1 \in X $$ y $$ x_2 \in X $$ existen entornos $$x_1 \in U_1$$ y $$x_2 \in U_2$$ disjuntos.
+
+Ser espacio de Hausdorff implica el Axioma T1, pero el reverso no es cierto.
