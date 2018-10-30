@@ -1,0 +1,8 @@
+created: 20181007075604253
+modified: 20181007075645383
+tags: definicion
+title: Axioma T1
+
+Cada Conjunto finito en un espacio T1 es cerrado.
+
+Todo Espacio de Hausdorff cumple el Axioma T1, pero no todos los espacios T1 son de Hausdorff.
