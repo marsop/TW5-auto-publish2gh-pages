@@ -2,5 +2,5 @@ Wiki con apuntes de la Asignatura **(Ampliaciónd de Topología) Topología Alge
 
 Para acceder a los contenidos: 
 
-[tp.albertogregorio.com](http://tp.albertogregorio.com) 
+[albertogregorio.com/topologia-algebraica](https://albertogregorio.com/topologia-algebraica/) 
 
