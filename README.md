@@ -1,3 +1,4 @@
-Apuntes de la Asignatura Topología Algebraica de la UNED (Ampliaciónd de Topología)
+Wiki con apuntes de la **Asignatura Topología Algebraica** de la UNED (Ampliaciónd de Topología)
 
-Alberto Gregorio 2018
+Para acceder a los contenidos, copia la siguiente url en tu navegador: tp.albertogregorio.com
+
